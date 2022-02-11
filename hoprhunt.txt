@@ -1,0 +1,807 @@
+Ten color frame f2, Three color frame f1
+LONGLEAR  11, 14, 13, 06, 11, 04, 00, 17, 
+ARCHIVAI  00, 17, 02, 07, 08, 21, 00, 08, 
+SIRAREDN  18, 08, 17, 00, 17, 04, 03, 13, 
+tSEEPHDE  09, 18, 04, 04, 15, 07, 03, 04, 
+ANRYRINA  00, 13, 17, 24, 17, 08, 13, 00, 
+NDECAVSP  13, 03, 04, 02, 00, 21, 18, 15, 
+CEMACHIH  02, 04, 12, 00, 02, 07, 08, 07, 
+INtRALNE  08, 13, 09, 17, 00, 11, 13, 04, 
+
+
+Ten color frame f5, Three color frame f4
+LOOKFORF  11, 14, 14, 10, 05, 14, 17, 05, 
+AYERORDL  00, 24, 04, 17, 14, 17, 03, 11, 
+SULADEAY  18, 20, 11, 00, 03, 04, 00, 24, 
+BUtBEWAR  01, 20, 09, 01, 04, 22, 00, 17, 
+MINERIFE  12, 08, 13, 04, 17, 08, 05, 04, 
+EtOSLAAt  04, 09, 14, 18, 11, 00, 00, 09, 
+HAUROGIH  07, 00, 20, 17, 14, 06, 08, 07, 
+tDNAtHNE  09, 03, 13, 00, 09, 07, 13, 04, 
+
+
+Maze frame 0 maze-long-col0
++=+=+=+=+=+=+=+=+
+|         I     |   0,0,0,0,0,L,0,0,   0,0,0,0,R,0,0,0,   U,U,U,U,U,U,U,U,   0,D,D,D,0,0,D,0,
++ +=+=+=+ + +=+ +
+|           I   |   0,0,0,0,0,0,L,0,   0,0,0,0,0,R,0,0,   0,U,U,U,0,0,U,0,   0,D,0,0,D,D,0,D,
++ +=+ + +=+=+ +=+
+|     I     I   |   0,0,0,L,0,0,L,0,   0,0,R,0,0,R,0,0,   0,U,0,0,U,U,0,U,   0,0,D,0,0,0,D,0,
++ + +=+ + + +=+ +
+| I   I I I   I |   0,L,0,L,L,L,0,L,   R,0,R,R,R,0,R,0,   0,0,U,0,0,0,U,0,   0,D,0,0,0,D,0,0,
++ +=+ + + +=+ + +
+|   I           |   0,0,L,0,0,0,0,0,   0,R,0,0,0,0,0,0,   0,U,0,0,0,U,0,0,   0,0,D,0,D,0,0,D,
++ + +=+ +=+ + +=+
+| I   I     I   |   0,L,0,L,0,0,L,0,   R,0,R,0,0,R,0,0,   0,0,U,0,U,0,0,U,   0,D,0,D,D,D,D,0,
++ +=+ +=+=+=+=+ +
+|               |   0,0,0,0,0,0,0,0,   0,0,0,0,0,0,0,0,   0,U,0,U,U,U,U,0,   D,0,D,0,D,D,0,D,
++=+ +=+ +=+=+ +=+
+|           I   |   0,0,0,0,0,0,L,0,   0,0,0,0,0,R,0,0,   U,0,U,0,U,U,0,U,   0,0,0,0,0,0,0,D,
++ + + + + + + +v+
+
+Three color frame f1
+brown,    brown,    brown,    black,    brown,    black,    black,    brown,      1, 1, 1, 0, 1, 0, 0, 1, 
+black,    brown,    black,    black,    black,    red,      black,    black,      0, 1, 0, 0, 0, 2, 0, 0, 
+brown,    black,    brown,    black,    brown,    black,    black,    brown,      1, 0, 1, 0, 1, 0, 0, 1, 
+brown,    brown,    black,    black,    brown,    black,    black,    black,      1, 1, 0, 0, 1, 0, 0, 0, 
+black,    brown,    brown,    red,      brown,    black,    brown,    black,      0, 1, 1, 2, 1, 0, 1, 0, 
+brown,    black,    black,    black,    black,    red,      brown,    brown,      1, 0, 0, 0, 0, 2, 1, 1, 
+black,    black,    brown,    black,    black,    black,    black,    black,      0, 0, 1, 0, 0, 0, 0, 0, 
+black,    brown,    brown,    brown,    black,    brown,    brown,    black,      0, 1, 1, 1, 0, 1, 1, 0, 
+
+
+Ten color frame f2
+red,           green,         yellow,        purple,        red,           green,         brown,         grey,            2, 5, 4, 7, 2, 5, 1, 8, 
+brown,         grey,          orange,        grey,          white,         red,           brown,         white,           1, 8, 3, 8, 9, 2, 1, 9, 
+white,         white,         grey,          brown,         grey,          green,         yellow,        yellow,          9, 9, 8, 1, 8, 5, 4, 4, 
+black,         white,         green,         green,         blue,          grey,          yellow,        green,           0, 9, 5, 5, 6, 8, 4, 5, 
+brown,         yellow,        grey,          green,         grey,          white,         yellow,        brown,           1, 4, 8, 5, 8, 9, 4, 1, 
+yellow,        yellow,        green,         orange,        brown,         red,           white,         blue,            4, 4, 5, 3, 1, 2, 9, 6, 
+orange,        green,         orange,        brown,         orange,        grey,          white,         grey,            3, 5, 3, 1, 3, 8, 9, 8, 
+white,         yellow,        black,         grey,          brown,         red,           yellow,        green,           9, 4, 0, 8, 1, 2, 4, 5, 
+
+
+Maze frame 3 maze-long-row-0
++=+=+=+=+=+=+=+=+
+|             I |   0,0,0,0,0,0,0,L,   0,0,0,0,0,0,R,0,   U,U,U,U,U,U,U,U,   0,D,D,D,D,D,0,0,
++ +=+=+=+=+=+ + +
+|       I I I   |   0,0,0,0,L,L,L,0,   0,0,0,R,R,R,0,0,   0,U,U,U,U,U,0,0,   D,D,0,0,0,0,0,0,
++=+=+ + + + + + +
+|             I |   0,0,0,0,0,0,0,L,   0,0,0,0,0,0,R,0,   U,U,0,0,0,0,0,0,   0,D,D,0,D,D,D,D,
++ +=+=+ +=+=+=+=+
+|               |   0,0,0,0,0,0,0,0,   0,0,0,0,0,0,0,0,   0,U,U,0,U,U,U,U,   D,D,D,0,D,D,0,0,
++=+=+=+ +=+=+ + +
+|             I |   0,0,0,0,0,0,0,L,   0,0,0,0,0,0,R,0,   U,U,U,0,U,U,0,0,   0,D,0,D,D,0,0,0,
++ +=+ +=+=+ + + +
+| I   I     I   |   0,L,0,L,0,0,L,0,   R,0,R,0,0,R,0,0,   0,U,0,U,U,0,0,0,   0,0,D,0,0,D,D,0,
++ + +=+ + +=+=+ +
+| I     I I     |   0,L,0,0,L,L,0,0,   R,0,0,R,R,0,0,0,   0,0,U,0,0,U,U,0,   0,0,D,D,0,0,0,0,
++ + +=+=+ + + + +
+|           I   |   0,0,0,0,0,0,L,0,   0,0,0,0,0,R,0,0,   0,0,U,U,0,0,0,0,   0,0,0,0,0,0,0,D,
++ + + + + + + +v+
+
+Three color frame f4
+brown,    brown,    brown,    brown,    black,    brown,    brown,    black,      1, 1, 1, 1, 0, 1, 1, 0, 
+black,    red,      black,    brown,    brown,    brown,    black,    brown,      0, 2, 0, 1, 1, 1, 0, 1, 
+brown,    red,      brown,    black,    black,    black,    black,    red,        1, 2, 1, 0, 0, 0, 0, 2, 
+black,    red,      brown,    black,    black,    red,      black,    brown,      0, 2, 1, 0, 0, 2, 0, 1, 
+brown,    black,    brown,    black,    brown,    black,    black,    black,      1, 0, 1, 0, 1, 0, 0, 0, 
+black,    brown,    brown,    brown,    brown,    black,    black,    brown,      0, 1, 1, 1, 1, 0, 0, 1, 
+black,    black,    red,      brown,    brown,    black,    black,    black,      0, 0, 2, 1, 1, 0, 0, 0, 
+brown,    black,    brown,    black,    brown,    black,    brown,    black,      1, 0, 1, 0, 1, 0, 1, 0, 
+
+
+Ten color frame f5
+red,           green,         green,         brown,         blue,          green,         grey,          blue,            2, 5, 5, 1, 6, 5, 8, 6, 
+brown,         green,         green,         grey,          green,         grey,          yellow,        red,             1, 5, 5, 8, 5, 8, 4, 2, 
+white,         brown,         red,           brown,         yellow,        green,         brown,         green,           9, 1, 2, 1, 4, 5, 1, 5, 
+red,           brown,         black,         red,           green,         orange,        brown,         grey,            2, 1, 0, 2, 5, 3, 1, 8, 
+orange,        white,         yellow,        green,         grey,          white,         blue,          green,           3, 9, 4, 5, 8, 9, 6, 5, 
+green,         black,         green,         white,         red,           brown,         brown,         black,           5, 0, 5, 9, 2, 1, 1, 0, 
+grey,          brown,         brown,         grey,          green,         purple,        white,         grey,            8, 1, 1, 8, 5, 7, 9, 8, 
+black,         yellow,        yellow,        brown,         black,         grey,          yellow,        green,           0, 4, 4, 1, 0, 8, 4, 5, 
+
+
+Maze frame 7 Combined maze
++=+=+=+=+=+=+=+=+
+|         I   I |   0,0,0,0,0,L,0,L,   0,0,0,0,R,0,R,0,   U,U,U,U,U,U,U,U,   0,D,D,D,D,D,D,0,
++ +=+=+=+=+=+=+ +
+|       I I I   |   0,0,0,0,L,L,L,0,   0,0,0,R,R,R,0,0,   0,U,U,U,U,U,U,0,   D,D,0,0,D,D,0,D,
++=+=+ + +=+=+ +=+
+|     I     I I |   0,0,0,L,0,0,L,L,   0,0,R,0,0,R,R,0,   U,U,0,0,U,U,0,U,   0,D,D,0,D,D,D,D,
++ +=+=+ +=+=+=+=+
+| I   I I I   I |   0,L,0,L,L,L,0,L,   R,0,R,R,R,0,R,0,   0,U,U,0,U,U,U,U,   D,D,D,0,D,D,0,0,
++=+=+=+ +=+=+ + +
+|   I         I |   0,0,L,0,0,0,0,L,   0,R,0,0,0,0,R,0,   U,U,U,0,U,U,0,0,   0,D,D,D,D,0,0,D,
++ +=+=+=+=+ + +=+
+| I   I     I   |   0,L,0,L,0,0,L,0,   R,0,R,0,0,R,0,0,   0,U,U,U,U,0,0,U,   0,D,D,D,D,D,D,0,
++ +=+=+=+=+=+=+ +
+| I     I I     |   0,L,0,0,L,L,0,0,   R,0,0,R,R,0,0,0,   0,U,U,U,U,U,U,0,   D,0,D,D,D,D,0,D,
++=+ +=+=+=+=+ +=+
+|           I   |   0,0,0,0,0,0,L,0,   0,0,0,0,0,R,0,0,   U,0,U,U,U,U,0,U,   0,0,0,0,0,0,0,D,
++ + + + + + + +v+
+
+Path through the maze:
+[[[0, 0], [1, 0], [1, 1], [1, 2], [1, 3], [2, 3], [3, 3], [4, 3], [4, 4], [4, 5], [4, 6], [5, 6], [5, 7], [6, 7], [6, 6], [7, 6], [7, 7]]]
+Notice there are walls in one maze seemingly unnecessarily duplicated in the other.
+The length of the solution path in the combined maze is 17
+Solution directions-- exactly 16: 
+[(1, 0), (0, 1), (0, 1), (0, 1), (1, 0), (1, 0), (1, 0), (0, 1)]
+[(0, 1), (0, 1), (1, 0), (0, 1), (1, 0), (0, -1), (1, 0), (0, 1)]
+Duplicate entries are:
+Maze frame 8 Duplicate maze
++=+=+=+=+=+=+=+=+
+|         ??  ??|   0,0,0,0,0,L,0,L,   0,0,0,0,R,0,R,0,   U,U,U,U,U,U,U,U,   0,D,D,D,D,D,D,0,
++ +=+=+=+?+?+?+ +
+|       ????I   |   0,0,0,0,L,L,L,0,   0,0,0,R,R,R,0,0,   0,U,U,U,U,U,U,0,   D,D,0,0,D,D,0,D,
++?+=+ + +?+?+ +?+
+|     ??    ????|   0,0,0,L,0,0,L,L,   0,0,R,0,0,R,R,0,   U,U,0,0,U,U,0,U,   0,D,D,0,D,D,D,D,
++ +?+=+ +?+?+=+?+
+| ??  ??????  ??|   0,L,0,L,L,L,0,L,   R,0,R,R,R,0,R,0,   0,U,U,0,U,U,U,U,   D,D,D,0,D,D,0,0,
++?+=+?+ +?+=+ + +
+|   ??        ??|   0,0,L,0,0,0,0,L,   0,R,0,0,0,0,R,0,   U,U,U,0,U,U,0,0,   0,D,D,D,D,0,0,D,
++ +?+?+?+=+ + +?+
+| I   I     I   |   0,L,0,L,0,0,L,0,   R,0,R,0,0,R,0,0,   0,U,U,U,U,0,0,U,   0,D,D,D,D,D,D,0,
++ +?+?+?+?+=+=+ +
+| ??    ????    |   0,L,0,0,L,L,0,0,   R,0,0,R,R,0,0,0,   0,U,U,U,U,U,U,0,   D,0,D,D,D,D,0,D,
++?+ +=+?+?+?+ +?+
+|           I   |   0,0,0,0,0,0,L,0,   0,0,0,0,0,R,0,0,   U,0,U,U,U,U,0,U,   0,0,0,0,0,0,0,D,
++ + + + + + + +v+
+
+
+Single entries are:
+['  ', '  ', '  ', '  ']['  ', '  ', '  ', '  ']['  ', '  ', '  ', '  ']['  ', '  ', '  ', '  ']['  ', 'ft', '  ', 'tf']['ft', '  ', '  ', 'tf']['  ', 'tf', '  ', 'ft']['tf', '  ', '  ', '  ']
+['  ', '  ', '  ', 'tf']['  ', '  ', '  ', '  ']['  ', '  ', '  ', '  ']['  ', 'tf', '  ', '  ']['tf', 'tf', 'tf', 'ft']['tf', '  ', 'tf', 'ft']['  ', '  ', 'ft', '  ']['  ', '  ', '  ', 'ft']
+['  ', '  ', 'tf', '  ']['  ', '  ', '  ', 'tf']['  ', 'ft', '  ', '  ']['ft', '  ', '  ', '  ']['  ', '  ', 'ft', 'tf']['  ', 'ft', 'ft', 'tf']['ft', 'tf', '  ', '  ']['tf', '  ', 'ft', 'tf']
+['  ', 'ft', '  ', 'tf']['ft', '  ', 'tf', '  ']['  ', 'ft', '  ', 'tf']['ft', 'ft', '  ', '  ']['ft', 'ft', 'tf', 'tf']['ft', '  ', 'tf', '  ']['  ', 'ft', '  ', '  ']['ft', '  ', 'tf', '  ']
+['  ', '  ', 'tf', '  ']['  ', 'ft', '  ', 'tf']['ft', '  ', 'tf', 'ft']['  ', '  ', '  ', 'tf']['  ', '  ', 'tf', '  ']['  ', '  ', '  ', '  ']['  ', 'tf', '  ', '  ']['tf', '  ', '  ', 'ft']
+['  ', '  ', '  ', '  ']['  ', '  ', 'tf', 'ft']['  ', '  ', 'ft', 'tf']['  ', '  ', 'tf', 'ft']['  ', '  ', '  ', 'ft']['  ', '  ', '  ', '  ']['  ', '  ', '  ', '  ']['  ', '  ', 'ft', '  ']
+['  ', 'tf', '  ', 'ft']['tf', '  ', 'ft', '  ']['  ', '  ', 'tf', '  ']['  ', 'tf', 'ft', 'tf']['tf', 'tf', 'ft', 'ft']['tf', '  ', '  ', 'ft']['  ', '  ', '  ', '  ']['  ', '  ', '  ', 'ft']
+['  ', '  ', 'ft', '  ']['  ', '  ', '  ', '  ']['  ', '  ', '  ', '  ']['  ', '  ', 'tf', '  ']['  ', '  ', 'ft', '  ']['  ', '  ', 'ft', '  ']['  ', '  ', '  ', '  ']['  ', '  ', 'ft', '  ']
+Col 7 has exactly 12 mismatching walls
+Notice only the rightmost column has exactly 12 mismatching walls.
+Used to deduce the password: single path letters, cf1,cf2:
+LARCHAEYRINSPHINE
+LAYERABERIFAtHINE
+
+
+Maze solutions for Maze frame 0 maze-long-col0
+53: [[0, 0], [0, 1], [0, 2], [0, 3], [0, 4], [1, 4], [1, 5], [0, 5], [0, 6], [0, 7], [1, 7], [1, 6], [2, 6], [2, 7], [3, 7], [4, 7], [4, 6], [5, 6], [5, 7], [6, 7], [6, 6], [6, 5], [6, 4], [6, 3], [7, 3], [7, 2], [7, 1], [6, 1], [6, 2], [5, 2], [5, 1], [4, 1], [4, 0], [3, 0], [2, 0], [1, 0], [1, 1], [1, 2], [2, 2], [2, 1], [3, 1], [3, 2], [4, 2], [4, 3], [5, 3], [5, 4], [5, 5], [4, 5], [4, 4], [3, 4], [2, 4], [2, 3], [1, 3]]
+53: [[0, 0], [0, 1], [0, 2], [0, 3], [0, 4], [1, 4], [1, 5], [0, 5], [0, 6], [0, 7], [1, 7], [1, 6], [2, 6], [2, 7], [3, 7], [4, 7], [4, 6], [5, 6], [5, 7], [6, 7], [6, 6], [6, 5], [6, 4], [6, 3], [7, 3], [7, 2], [7, 1], [6, 1], [6, 2], [5, 2], [5, 1], [4, 1], [4, 0], [3, 0], [2, 0], [1, 0], [1, 1], [1, 2], [2, 2], [2, 1], [3, 1], [3, 2], [4, 2], [4, 3], [5, 3], [5, 4], [5, 5], [4, 5], [4, 4], [3, 4], [2, 4], [2, 3], [3, 3]]
+54: [[0, 0], [0, 1], [0, 2], [0, 3], [0, 4], [1, 4], [1, 5], [0, 5], [0, 6], [0, 7], [1, 7], [1, 6], [2, 6], [2, 7], [3, 7], [4, 7], [4, 6], [3, 6], [3, 5], [2, 5], [2, 4], [3, 4], [4, 4], [4, 5], [5, 5], [5, 4], [5, 3], [4, 3], [4, 2], [3, 2], [3, 1], [2, 1], [2, 2], [1, 2], [1, 1], [1, 0], [2, 0], [3, 0], [4, 0], [4, 1], [5, 1], [5, 2], [6, 2], [6, 1], [7, 1], [7, 2], [7, 3], [6, 3], [6, 4], [6, 5], [6, 6], [6, 7], [5, 7], [5, 6]]
+54: [[0, 0], [0, 1], [0, 2], [0, 3], [0, 4], [1, 4], [1, 5], [0, 5], [0, 6], [0, 7], [1, 7], [1, 6], [2, 6], [2, 7], [3, 7], [4, 7], [4, 6], [5, 6], [5, 7], [6, 7], [6, 6], [6, 5], [6, 4], [6, 3], [7, 3], [7, 2], [7, 1], [6, 1], [6, 2], [5, 2], [5, 1], [4, 1], [4, 0], [3, 0], [2, 0], [1, 0], [1, 1], [1, 2], [2, 2], [2, 1], [3, 1], [3, 2], [4, 2], [4, 3], [5, 3], [5, 4], [5, 5], [4, 5], [4, 4], [3, 4], [2, 4], [2, 5], [3, 5], [3, 6]]
+Maze solutions for Maze frame 3 maze-long-row-0
+54: [[0, 0], [0, 1], [0, 2], [0, 3], [0, 4], [0, 5], [0, 6], [1, 6], [2, 6], [2, 5], [2, 4], [2, 3], [1, 3], [1, 2], [2, 2], [2, 1], [2, 0], [3, 0], [3, 1], [3, 2], [3, 3], [4, 3], [4, 4], [4, 5], [5, 5], [5, 4], [5, 3], [6, 3], [6, 2], [6, 1], [5, 1], [5, 2], [4, 2], [4, 1], [4, 0], [5, 0], [6, 0], [7, 0], [7, 1], [7, 2], [7, 3], [7, 4], [7, 5], [6, 5], [6, 6], [7, 6], [7, 7], [6, 7], [5, 7], [4, 7], [3, 7], [3, 6], [3, 5], [3, 4]]
+54: [[0, 0], [0, 1], [0, 2], [0, 3], [0, 4], [0, 5], [0, 6], [1, 6], [2, 6], [2, 5], [2, 4], [2, 3], [1, 3], [1, 2], [2, 2], [2, 1], [2, 0], [3, 0], [3, 1], [3, 2], [3, 3], [4, 3], [4, 4], [4, 5], [5, 5], [5, 4], [5, 3], [6, 3], [6, 2], [6, 1], [5, 1], [5, 2], [4, 2], [4, 1], [4, 0], [5, 0], [6, 0], [7, 0], [7, 1], [7, 2], [7, 3], [7, 4], [7, 5], [6, 5], [6, 6], [7, 6], [7, 7], [6, 7], [5, 7], [4, 7], [3, 7], [3, 6], [4, 6], [5, 6]]
+54: [[0, 0], [0, 1], [0, 2], [0, 3], [0, 4], [0, 5], [0, 6], [1, 6], [2, 6], [2, 5], [2, 4], [2, 3], [1, 3], [1, 2], [2, 2], [2, 1], [2, 0], [3, 0], [3, 1], [3, 2], [3, 3], [4, 3], [4, 4], [4, 5], [5, 5], [5, 4], [5, 3], [6, 3], [6, 2], [6, 1], [5, 1], [5, 2], [4, 2], [4, 1], [4, 0], [5, 0], [6, 0], [7, 0], [7, 1], [7, 2], [7, 3], [7, 4], [7, 5], [6, 5], [6, 6], [7, 6], [7, 7], [6, 7], [5, 7], [5, 6], [4, 6], [3, 6], [3, 5], [3, 4]]
+54: [[0, 0], [0, 1], [0, 2], [0, 3], [0, 4], [0, 5], [0, 6], [1, 6], [2, 6], [2, 5], [2, 4], [2, 3], [1, 3], [1, 2], [2, 2], [2, 1], [2, 0], [3, 0], [3, 1], [3, 2], [3, 3], [4, 3], [4, 4], [4, 5], [5, 5], [5, 4], [5, 3], [6, 3], [6, 2], [6, 1], [5, 1], [5, 2], [4, 2], [4, 1], [4, 0], [5, 0], [6, 0], [7, 0], [7, 1], [7, 2], [7, 3], [7, 4], [7, 5], [6, 5], [6, 6], [7, 6], [7, 7], [6, 7], [5, 7], [5, 6], [4, 6], [3, 6], [3, 7], [4, 7]]
+Study results using maze frames to pick content:
+
+
+40299: Process 10 
+  LARCHIVEARIADNEANDHERPRIVACYRESIStANCEMACHINE
+  011111100011223443322344555443322345666666677
+  001234556776677766554445543322110000012345667
+  ['larch', 'ive', 'ariadne', 'and', 'her', 'privacy', 'resistance', 'machine']
+  path_length:45 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 0 maze-long-col0
+
+40297: Process 10 
+  LONGLIVEARIADNEANDHERPRIVACYRESIStANCEMACHINE
+  000001100011223443322344555443322345666666677
+  012344556776677766554445543322110000012345667
+  ['long', 'live', 'ariadne', 'and', 'her', 'privacy', 'resistance', 'machine']
+  path_length:45 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 0 maze-long-col0
+
+40279: Process 10 
+  LARCHIVEARIADNEANDHERPRIVACYRESIStANCENtRACHINE
+  01111110001122344332234455544332234566777666677
+  00123455677667776655444554332211000001123345667
+  ['larch', 'ive', 'ariadne', 'and', 'her', 'privacy', 'resistance', 'ntr', 'a', 'chine']
+  path_length:47 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 0 maze-long-col0
+
+40277: Process 10 
+  LONGLIVEARIADNEANDHERPRIVACYRESIStANCENtRACHINE
+  00000110001122344332234455544332234566777666677
+  01234455677667776655444554332211000001123345667
+  ['long', 'live', 'ariadne', 'and', 'her', 'privacy', 'resistance', 'ntr', 'a', 'chine']
+  path_length:47 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 0 maze-long-col0
+
+40272: Process 10 
+  LARCHIVEARIADNEANDHERPRIVACYRESIStANCEMACHIHPS
+  0111111000112234433223445554433223456666666655
+  0012345567766777665544455433221100000123456776
+  ['larch', 'ive', 'ariadne', 'and', 'her', 'privacy', 'resistance', 'mach', 'i', 'h', 'ps']
+  path_length:46 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 0 maze-long-col0
+
+40271: Process 10 
+  LARCHIVEARIADNEANDHERPRIVACYRESIStANCENtRAMEDN
+  0111111000112234433223445554433223456677766554
+  0012345567766777665544455433221100000112332211
+  ['larch', 'ive', 'ariadne', 'and', 'her', 'privacy', 'resistance', 'n', 'tram', 'ed']
+  path_length:46 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 0 maze-long-col0
+
+40270: Process 10 
+  LONGLIVEARIADNEANDHERPRIVACYRESIStANCEMACHIHPS
+  0000011000112234433223445554433223456666666655
+  0123445567766777665544455433221100000123456776
+  ['long', 'live', 'ariadne', 'and', 'her', 'privacy', 'resistance', 'mach', 'i', 'h', 'ps']
+  path_length:46 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 0 maze-long-col0
+
+40269: Process 10 
+  LONGLIVEARIADNEANDHERPRIVACYRESIStANCENtRAMEDN
+  0000011000112234433223445554433223456677766554
+  0123445567766777665544455433221100000112332211
+  ['long', 'live', 'ariadne', 'and', 'her', 'privacy', 'resistance', 'n', 'tram', 'ed']
+  path_length:46 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 0 maze-long-col0
+
+40268: Process 10 
+  LARCHIVEARIADNEANDHERPRIVACYRESIStANCEMARtNI
+  01111110001122344332234455544332234566667777
+  00123455677667776655444554332211000001233210
+  ['larch', 'ive', 'ariadne', 'and', 'her', 'privacy', 'resistance', 'mart', 'n', 'i']
+  path_length:44 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 0 maze-long-col0
+
+40266: Process 10 
+  LONGLIVEARIADNEANDHERPRIVACYRESIStANCEMARtNI
+  00000110001122344332234455544332234566667777
+  01234455677667776655444554332211000001233210
+  ['long', 'live', 'ariadne', 'and', 'her', 'privacy', 'resistance', 'mart', 'n', 'i']
+  path_length:44 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 0 maze-long-col0
+
+20267: Process 0 
+  LOOKFORDAEDALUSBUtBEWAREtHENIGHtANDtHEMINOtAURSLAIRE
+  0000000122222223333333345677667777776544455666555444
+  0123456665432100123456777776655432100001221123345543
+  ['look', 'for', 'daedalus', 'but', 'beware', 'the', 'night', 'and', 'the', 'minotaur', 's', 'lair']
+  path_length:52 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 3 maze-long-row-0
+
+20260: Process 0 
+  LOOKFORDAEDALUSBUtBEWAREtHENIGHtANDtHEMINOtAURSLAIFA
+  0000000122222223333333345677667777776544455666555445
+  0123456665432100123456777776655432100001221123345566
+  ['look', 'for', 'daedalus', 'but', 'beware', 'the', 'night', 'and', 'the', 'minotaur', 's', 'la', 'if', 'a']
+  path_length:52 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 3 maze-long-row-0
+
+20258: Process 0 
+  LOOKFORDAEDALUSBUtBEWAREtHIGHtANDtHEMINOtAURSLAIRE
+  00000001222222233333333456667777776544455666555444
+  01234566654321001234567777655432100001221123345543
+  ['look', 'for', 'daedalus', 'but', 'beware', 'thigh', 'tan', 'the', 'minotaur', 's', 'lair']
+  path_length:50 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 3 maze-long-row-0
+
+20255: Process 0 
+  LOOKFORDAEDALUSBUtBEWAREtHENIGHtANDtHEMINOtAURSLO
+  0000000122222223333333345677667777776544455666556
+  0123456665432100123456777776655432100001221123344
+  ['look', 'for', 'daedalus', 'but', 'beware', 'the', 'night', 'and', 'the', 'minotaur', 's', 'lo']
+  path_length:49 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 3 maze-long-row-0
+
+20251: Process 0 
+  LOOKFORDAEDALUSBUtBEWAREtHIGHtANDtHEMINOtAURSLAIFA
+  00000001222222233333333456667777776544455666555445
+  01234566654321001234567777655432100001221123345566
+  ['look', 'for', 'daedalus', 'but', 'beware', 'thigh', 'tan', 'the', 'minotaur', 's', 'la', 'if', 'a']
+  path_length:50 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 3 maze-long-row-0
+
+20246: Process 0 
+  LOOKFORDAEDALUSBUtBEWAREtHIGHtANDtHEMINOtAURSLO
+  00000001222222233333333456667777776544455666556
+  01234566654321001234567777655432100001221123344
+  ['look', 'for', 'daedalus', 'but', 'beware', 'thigh', 'tan', 'the', 'minotaur', 's', 'lo']
+  path_length:47 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 3 maze-long-row-0
+
+20243: Process 0 
+  LOOKFORDAEDALUSBUtBEWAFAtHENIGHtANDtHEMINOtAURSLAIRE
+  0000000122222223333333455677667777776544455666555444
+  0123456665432100123456667776655432100001221123345543
+  ['look', 'for', 'daedalus', 'but', 'be', 'wa', 'fat', 'he', 'night', 'and', 'the', 'minotaur', 's', 'lair']
+  path_length:52 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 3 maze-long-row-0
+
+20243: Process 0 
+  LOOKFORDAEDALUSBUtBERIFAREtHENIGHtANDtHEMINOtAURSLO
+  000000012222222333344443345677667777776544455666556
+  012345666543210012334566777776655432100001221123344
+  ['look', 'for', 'daedalus', 'but', 'be', 'ri', 'fare', 'the', 'night', 'and', 'the', 'minotaur', 's', 'lo']
+  path_length:51 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 3 maze-long-row-0
+
+20243: Process 0 
+  LOOKFORDAEDALUSBUtBERIFAREtHENIGHtANDtHEMINOtAURSLA
+  000000012222222333344443345677667777776544455666555
+  012345666543210012334566777776655432100001221123345
+  ['look', 'for', 'daedalus', 'but', 'be', 'ri', 'fare', 'the', 'night', 'and', 'the', 'minotaur', 's', 'la']
+  path_length:51 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 3 maze-long-row-0
+
+20234: Process 0 
+  LOOKFORDAEDALUSBUtBEWAREtAFIALOtANDtHEMINOtAURS
+  00000001222222233333333455445567777765444556665
+  01234566654321001234567776655444321000012211233
+  ['look', 'for', 'daedalus', 'but', 'beware', 'ta', 'f', 'ia', 'lot', 'and', 'the', 'minotaur']
+  path_length:47 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 3 maze-long-row-0
+
+148: Process 9 
+  LONGLEAADERARIStSEEPHDEAPSNIVACAMEDERNANCINtRALHIHEN
+  0000000122222223333333345544555666554445677777766677
+  0123456665432100123456777665543321122100001234556776
+  ['long', 'lea', 'ad', 'era', 'ri', 'st', 'seep', 'de', 'a', 'ps', 'iv', 'a', 'came', 'de', 'rna', 'nc', 'intra', 'l', 'hi', 'hen']
+  path_length:52 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 3 maze-long-row-0
+
+148: Process 9 
+  LONGLEAADERAHCRIStSEEPHDEAPSNIVACAMEDERNANCINtRALHIHEN
+  000000012222112223333333345544555666554445677777766677
+  012345666543322100123456777665543321122100001234556776
+  ['long', 'lea', 'ad', 'era', 'ri', 'st', 'seep', 'de', 'a', 'ps', 'iv', 'a', 'came', 'de', 'rna', 'nc', 'intra', 'l', 'hi', 'hen']
+  path_length:54 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 3 maze-long-row-0
+
+143: Process 9 
+  LONGLEAADERARIStSEEPHDEAPSNIVACAMEDERNANCINtRALHINEH
+  0000000122222223333333345544555666554445677777766776
+  0123456665432100123456777665543321122100001234556677
+  ['long', 'lea', 'ad', 'era', 'ri', 'st', 'seep', 'de', 'a', 'ps', 'iv', 'a', 'came', 'de', 'rna', 'nc', 'intra', 'l', 'hi', 'ne']
+  path_length:52 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 3 maze-long-row-0
+
+143: Process 9 
+  LONGLEAADERARIStSEEPHDEAPSNIVACAMEDERNANCINtRALHINE
+  000000012222222333333334554455566655444567777776677
+  012345666543210012345677766554332112210000123455667
+  ['long', 'lea', 'ad', 'era', 'ri', 'st', 'seep', 'de', 'a', 'ps', 'iv', 'a', 'came', 'de', 'rna', 'nc', 'intra', 'l', 'hi', 'ne']
+  path_length:51 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 3 maze-long-row-0
+
+143: Process 9 
+  LONGLEAADERARIStSEEPHDEAPSNIVACAMEDERNANCINtRALHIHE
+  000000012222222333333334554455566655444567777776667
+  012345666543210012345677766554332112210000123455677
+  ['long', 'lea', 'ad', 'era', 'ri', 'st', 'seep', 'de', 'a', 'ps', 'iv', 'a', 'came', 'de', 'rna', 'nc', 'intra', 'l', 'hi', 'he']
+  path_length:51 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 3 maze-long-row-0
+
+143: Process 9 
+  LONGLEAADERAHCRIStSEEPHDEAPSNIVACAMEDERNANCINtRALHINEH
+  000000012222112223333333345544555666554445677777766776
+  012345666543322100123456777665543321122100001234556677
+  ['long', 'lea', 'ad', 'era', 'ri', 'st', 'seep', 'de', 'a', 'ps', 'iv', 'a', 'came', 'de', 'rna', 'nc', 'intra', 'l', 'hi', 'ne']
+  path_length:54 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 3 maze-long-row-0
+
+143: Process 9 
+  LONGLEAADERAHCRIStSEEPHDEAPSNIVACAMEDERNANCINtRALHINE
+  00000001222211222333333334554455566655444567777776677
+  01234566654332210012345677766554332112210000123455667
+  ['long', 'lea', 'ad', 'era', 'ri', 'st', 'seep', 'de', 'a', 'ps', 'iv', 'a', 'came', 'de', 'rna', 'nc', 'intra', 'l', 'hi', 'ne']
+  path_length:53 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 3 maze-long-row-0
+
+143: Process 9 
+  LONGLEAADERAHCRIStSEEPHDEAPSNIVACAMEDERNANCINtRALHIHE
+  00000001222211222333333334554455566655444567777776667
+  01234566654332210012345677766554332112210000123455677
+  ['long', 'lea', 'ad', 'era', 'ri', 'st', 'seep', 'de', 'a', 'ps', 'iv', 'a', 'came', 'de', 'rna', 'nc', 'intra', 'l', 'hi', 'he']
+  path_length:53 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 3 maze-long-row-0
+
+143: Process 1 
+  LOOKFORORFLDAYREFAtHIGORANDAHEMBSAYELUUtNEBADERIALS
+  000001100011223445566666777665432111223344322344555
+  012344556776677766776543321100000012211223334445543
+  ['look', 'for', 'or', 'fl', 'day', 're', 'fat', 'hi', 'go', 'rand', 'ahem', 'bs', 'aye', 'lu', 'ut', 'ne', 'bade', 'ri', 'a', 'ls']
+  path_length:51 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 0 maze-long-col0
+
+142: Process 9 
+  LONGLEAADERARIStSEEYRIVACAMEDERNANCINtRALHINEHPAEDNS
+  0000000122222223333444555666554445677777766776543345
+  0123456665432100123345543321122100001234556677777666
+  ['long', 'lea', 'ad', 'era', 'ri', 'st', 'see', 'ri', 'va', 'came', 'de', 'rna', 'nc', 'intra', 'hi', 'ne', 'h', 'pa', 'ed', 'ns']
+  path_length:52 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 3 maze-long-row-0
+
+142: Process 9 
+  LONGLEAADERAHCRIStSEEYRIVACAMEDERNANCINtRALHINEHPAEDNS
+  000000012222112223333444555666554445677777766776543345
+  012345666543322100123345543321122100001234556677777666
+  ['long', 'lea', 'ad', 'era', 'ri', 'st', 'see', 'ri', 'va', 'came', 'de', 'rna', 'nc', 'intra', 'hi', 'ne', 'h', 'pa', 'ed', 'ns']
+  path_length:54 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 3 maze-long-row-0
+
+142: Process 1 
+  LOOKFORORFLDAYREFAtHIGORANDAHEMBSAYERABESLAIREDEWA
+  00000110001122344556666677766543211112345554432233
+  01234455677667776677654332110000001233333455444556
+  ['look', 'for', 'or', 'fl', 'day', 're', 'fat', 'hi', 'go', 'rand', 'ahem', 'bs', 'aye', 'abe', 'lair', 'ed', 'e', 'wa']
+  path_length:50 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 0 maze-long-col0
+
+141: Process 1 
+  LOOKFORORFLDAYREFAtHIGORANDAHEMBSAYELUUtNESLAIREDEWA
+  0000011000112234455666667776654321112233445554432233
+  0123445567766777667765433211000000122112233455444556
+  ['look', 'for', 'or', 'fl', 'day', 're', 'fat', 'hi', 'go', 'rand', 'ahem', 'bs', 'aye', 'ut', 'ne', 'lair', 'ed', 'e', 'wa']
+  path_length:52 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 0 maze-long-col0
+
+141: Process 1 
+  LOOKFORORFLDAYREFAtHIGORANDAHEMBSAYELUUtNESLAIREDAR
+  000001100011223445566666777665432111223344555443221
+  012344556776677766776543321100000012211223345544433
+  ['look', 'for', 'or', 'fl', 'day', 're', 'fat', 'hi', 'go', 'rand', 'ahem', 'bs', 'aye', 'ut', 'ne', 's', 'lair', 'ed', 'ar']
+  path_length:51 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 0 maze-long-col0
+
+139: Process 1 
+  LOOKFORORFLDAYREFAtHIGORANDAHEMBSAYELUUtNESLAIREDAB
+  000001100011223445566666777665432111223344555443223
+  012344556776677766776543321100000012211223345544433
+  ['look', 'for', 'or', 'fl', 'day', 're', 'fat', 'hi', 'go', 'rand', 'ahem', 'bs', 'aye', 'ut', 'ne', 's', 'la', 'ire', 'dab']
+  path_length:51 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 0 maze-long-col0
+
+138: Process 1 
+  LOOKFORORFLDAYREFAtHIGORANDAHEMBSUUtNESLAIREDAREYA
+  00000110001122344556666677766543223344555443221111
+  01234455677667776677654332110000011223345544433210
+  ['look', 'for', 'or', 'fl', 'day', 're', 'fat', 'hi', 'go', 'rand', 'ahem', 'bs', 'ut', 'ne', 'lair', 'ed', 'are', 'y', 'a']
+  path_length:50 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 0 maze-long-col0
+
+138: Process 1 
+  LOOKFORORFLDAYREFAtHIGORANDAHEMBSULERADERIALSENtU
+  0000011000112234455666667776654322211223445554433
+  0123445567766777667765433211000001223344455433221
+  ['look', 'for', 'or', 'fl', 'day', 're', 'fat', 'hi', 'go', 'rand', 'ahem', 'bs', 'ul', 'era', 'de', 'ri', 'al', 'sent']
+  path_length:49 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 0 maze-long-col0
+
+138: Process 1 
+  LOOKFORORFLDAYREFAtHIGORANDAHEMBSAYERADERIALSENtUUL
+  000001100011223445566666777665432111122344555443322
+  012344556776677766776543321100000012334445543322112
+  ['look', 'for', 'or', 'fl', 'day', 're', 'fat', 'hi', 'go', 'rand', 'ahem', 'bs', 'aye', 'r', 'a', 'de', 'ri', 'al', 'sent']
+  path_length:51 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 0 maze-long-col0
+
+138: Process 1 
+  LOOKFORORFLDAYREFAtHIGORANDAHEMBSAYELUUtNEBADEWA
+  000001100011223445566666777665432111223344322233
+  012344556776677766776543321100000012211223334556
+  ['look', 'for', 'or', 'fl', 'day', 're', 'fat', 'hi', 'go', 'rand', 'ahem', 'bs', 'aye', 'lu', 'ut', 'ne', 'bade', 'wa']
+  path_length:48 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 0 maze-long-col0
+
+137: Process 1 
+  LOOKFORORFLDAYREFAtHIGORANDAHEMBSUUtNESLAIREDAREL
+  0000011000112234455666667776654322334455544322112
+  0123445567766777667765433211000001122334554443322
+  ['look', 'for', 'or', 'fl', 'day', 're', 'fat', 'hi', 'go', 'rand', 'ahem', 'bs', 'ut', 'ne', 's', 'lair', 'ed', 'are']
+  path_length:49 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 0 maze-long-col0
+
+110: Process 3 
+  LOOAPEHDAENAHELASLK BOCAHEtKPIRYNSCOH NAKHIBE RGIHEN
+  0000000122221122233333333455444444456776665567766677
+  0123456665433221001234567776654321000011233444556776
+  ['lo', 'ape', 'a', 'en', 'ah', 'el', 'as', 'boca', 'he', 'pi', 'ry', 'ns', 'cohn', 'ak', 'hi', 'berg', 'i', 'hen']
+  path_length:52 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 3 maze-long-row-0
+
+109: Process 3 
+  LOOAPEHDAENAHELASLK BOCAHEtHENIGR EBUIRYNSCOH NAKHI
+  000000012222112223333333345677667765544444456776665
+  012345666543322100123456777776655444554321000011233
+  ['lo', 'ape', 'a', 'en', 'ah', 'el', 'as', 'boca', 'he', 'then', 'i', 'reb', 'ir', 'y', 'ns', 'cohn', 'ak', 'hi']
+  path_length:51 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 3 maze-long-row-0
+
+108: Process 3 
+  LOOAPEHDAENAHELASLK BOCAHEtKPIRYNSCOH NAKHIBE RGINEH
+  0000000122221122233333333455444444456776665567766776
+  0123456665433221001234567776654321000011233444556677
+  ['lo', 'ape', 'a', 'en', 'ah', 'el', 'as', 'boca', 'he', 'pi', 'ry', 'ns', 'cohn', 'ak', 'hi', 'berg', 'in', 'eh']
+  path_length:52 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 3 maze-long-row-0
+
+107: Process 3 
+  LOOAPEHDAENALASLK BOCAHEtKPIRYNSCOH NAKHIBE RGIHEN
+  00000001222222233333333455444444456776665567766677
+  01234566654321001234567776654321000011233444556776
+  ['lo', 'ape', 'a', 'en', 'ala', 'boca', 'he', 'pi', 'ry', 'ns', 'cohn', 'ak', 'hi', 'berg', 'i', 'hen']
+  path_length:50 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 3 maze-long-row-0
+
+107: Process 3 
+  LOOAPEHDAENAHELASLK BOCAPIRYNSCOH NAKHIBE RGINEHtEH
+  000000012222112223333333444444456776665567766776543
+  012345666543322100123456654321000011233444556677777
+  ['lo', 'ape', 'a', 'en', 'ah', 'el', 'as', 'boca', 'pi', 'ns', 'cohn', 'ak', 'hi', 'berg', 'in', 'eh', 't', 'eh']
+  path_length:51 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 3 maze-long-row-0
+
+106: Process 3 
+  LOOAPEHDAENALASLK BOCAHEtHENIGR EBUIRYNSCOH NAKHI
+  0000000122222223333333345677667765544444456776665
+  0123456665432100123456777776655444554321000011233
+  ['lo', 'ape', 'a', 'en', 'ala', 'boca', 'he', 'then', 'i', 'reb', 'ir', 'y', 'ns', 'cohn', 'ak', 'hi']
+  path_length:49 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 3 maze-long-row-0
+
+106: Process 3 
+  LOOAPEHDAENAHELASLK BOCAPIRYNSCOH NAKHIBE RGIHEN
+  000000012222112223333333444444456776665567766677
+  012345666543322100123456654321000011233444556776
+  ['lo', 'ape', 'a', 'en', 'ah', 'el', 'as', 'boca', 'pi', 'ry', 'ns', 'cohn', 'ak', 'hi', 'berg', 'i', 'hen']
+  path_length:48 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 3 maze-long-row-0
+
+105: Process 3 
+  LOOAPEHDAENALASLK BOCAHEtKPIRYNSCOH NAKHIBE RGINEH
+  00000001222222233333333455444444456776665567766776
+  01234566654321001234567776654321000011233444556677
+  ['lo', 'ape', 'a', 'en', 'ala', 'boca', 'he', 'pi', 'ry', 'ns', 'cohn', 'ak', 'hi', 'berg', 'in', 'eh']
+  path_length:50 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 3 maze-long-row-0
+
+105: Process 3 
+  LOOAPEHDAENAHELASLK BOCAPKtHENIGR EBUIRYNSCOH NAKHI
+  000000012222112223333333455677667765544444456776665
+  012345666543322100123456667776655444554321000011233
+  ['lo', 'ape', 'a', 'en', 'ah', 'el', 'as', 'boca', 'then', 'i', 'reb', 'ir', 'y', 'ns', 'cohn', 'ak', 'hi']
+  path_length:51 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 3 maze-long-row-0
+
+105: Process 3 
+  LOOAPEHDAENAHELASLK BOCAHEtKPIRYNSCOH NAKHIBE RGINE
+  000000012222112223333333345544444445677666556776677
+  012345666543322100123456777665432100001123344455667
+  ['lo', 'ape', 'a', 'en', 'ah', 'el', 'as', 'boca', 'he', 'pi', 'ry', 'ns', 'cohn', 'ak', 'hi', 'berg', 'i', 'ne']
+  path_length:51 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 3 maze-long-row-0
+
+100: Process 7 
+  LONQBSLOKHSADXOADD EHFRIBKMEEARC AS KDNOWEDtHKMHINE
+  000001100011223443322344555432111123445566777666677
+  012344556776677766554445543333321000011221123345667
+  ['lo', 'bs', 'lo', 'hs', 'ad', 'add', 'eh', 'rib', 'me', 'ear', 'cask', 'now', 'edt', 'hkm', 'hi', 'ne']
+  path_length:51 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 0 maze-long-col0
+
+98: Process 7 
+  LONQBSLOKHSADXOADD EHFRIBKMEEARC AS KDNOWEDtHKMHIHPI
+  0000011000112234433223445554321111234455667776666655
+  0123445567766777665544455433333210000112211233456776
+  ['lo', 'bs', 'lo', 'hs', 'ad', 'add', 'eh', 'rib', 'me', 'ear', 'cask', 'now', 'edt', 'hi', 'h', 'pi']
+  path_length:52 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 0 maze-long-col0
+
+98: Process 7 
+  LONQBSLOKHSADXOADD EHFREEARC AS KDNOWEDtHKMHINE
+  00000110001122344332234432111123445566777666677
+  01234455677667776655444333321000011221123345667
+  ['lo', 'bs', 'lo', 'hs', 'ad', 'add', 'eh', 'free', 'ar', 'cask', 'now', 'edt', 'hkm', 'hi', 'ne']
+  path_length:47 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 0 maze-long-col0
+
+96: Process 7 
+  LONQBSLOKHSADXOADD EHFREEARC AS KDNOWEDtHKMHIHPI
+  000001100011223443322344321111234455667776666655
+  012344556776677766554443333210000112211233456776
+  ['lo', 'bs', 'lo', 'hs', 'ad', 'add', 'eh', 'free', 'ar', 'cask', 'now', 'edt', 'hi', 'h', 'pi']
+  path_length:48 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 0 maze-long-col0
+
+95: Process 7 
+  LONQBSLOKHSADXOADD EHFRIBKMERO  RC AS KDNOWEDtHKMHINE
+  00000110001122344332234455544332211123445566777666677
+  01234455677667776655444554332211221000011221123345667
+  ['lo', 'bs', 'lo', 'hs', 'ad', 'add', 'eh', 'rib', 'me', 'or', 'cask', 'now', 'edt', 'hkm', 'hi', 'ne']
+  path_length:53 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 0 maze-long-col0
+
+95: Process 7 
+  LONQBSLOKHSADXOADD EHFRIBKMEEARC AS KDCEDtHKWOND
+  000001100011223443322344555432111123456677766554
+  012344556776677766554445543333321000000112332211
+  ['lo', 'bs', 'lo', 'hs', 'ad', 'add', 'eh', 'rib', 'me', 'ear', 'cask', 'dc', 'edt', 'hk', 'won']
+  path_length:48 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 0 maze-long-col0
+
+95: Process 7 
+  LONQBSLOKHSADXOADD EHFRIBKMEEARC AS KDCEDtHKMHINE
+  0000011000112234433223445554321111234566777666677
+  0123445567766777665544455433333210000001123345667
+  ['lo', 'bs', 'lo', 'hs', 'ad', 'add', 'eh', 'rib', 'me', 'ear', 'cask', 'dc', 'edt', 'hkm', 'hi', 'ne']
+  path_length:49 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 0 maze-long-col0
+
+94: Process 7 
+  LAS KDNOWEDtHKMHIHPIDAOXDASHKOLSRCR  OREMKBIRFHE D
+  01234455667776666655443221100011112233445554432233
+  00000112211233456776677766776554322112233455444556
+  ['la', 'now', 'edt', 'hi', 'pi', 'a', 'ox', 'dash', 'ls', 'crore', 'ir', 'f', 'hed']
+  path_length:50 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 0 maze-long-col0
+
+94: Process 7 
+  LAS KDNOWEDtHKMHIHPIDAOXDASHKOLSRCR  OREEAHFRIBKM
+  0123445566777666665544322110001111223344322344555
+  0000011221123345677667776677655432211223334445543
+  ['la', 'now', 'edt', 'hi', 'pi', 'a', 'ox', 'dash', 'ls', 'crore', 'ah', 'f', 'rib']
+  path_length:49 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 0 maze-long-col0
+
+94: Process 6 
+  LONQBOKADEHARCR S  OEF DDIPHENIHBKHtDSCDKDRONEWKMKBIRE
+  000000012222112223333333455677667777776544455666555444
+  012345666543322100123456667776655432100001221123345543
+  ['lo', 'ok', 'ad', 'eh', 'arc', 'rs', 'dip', 'he', 'nih', 'ds', 'drone', 'wkmkb', 'ire']
+  path_length:54 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 3 maze-long-row-0
+
+93: Process 7 
+  LONQBSLOKHSADXOADD EHFRIBKMEEARC AS KDCEDtHKMHIHPI
+  00000110001122344332234455543211112345667776666655
+  01234455677667776655444554333332100000011233456776
+  ['lo', 'bs', 'lo', 'hs', 'ad', 'add', 'eh', 'rib', 'me', 'ear', 'cask', 'dc', 'edt', 'hi', 'h', 'pi']
+  path_length:50 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 0 maze-long-col0
+
+93: Process 6 
+  LONQBOKADEHARCR S  OEERIDIPHENIHBKHtDSCDKDRONEWKMKM
+  000000012222112223333444455677667777776544455666556
+  012345666543322100123345667776655432100001221123344
+  ['lo', 'ok', 'ad', 'eh', 'arc', 'rs', 'eer', 'i', 'dip', 'he', 'nih', 'ds', 'cdk', 'drone']
+  path_length:51 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 3 maze-long-row-0
+
+93: Process 6 
+  LONQBOKADEHARCR S  OEERIDIPHENIHBKHtDSCDKDRONEWKMKB
+  000000012222112223333444455677667777776544455666555
+  012345666543322100123345667776655432100001221123345
+  ['lo', 'ok', 'ad', 'eh', 'arc', 'rs', 'eer', 'i', 'dip', 'he', 'nih', 'ds', 'cdk', 'drone']
+  path_length:51 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 3 maze-long-row-0
+
+91: Process 4 
+  LASALEHABYRONECAPEHOADBPHE EPAOO
+  01222112344322334432211000110000
+  00012233334445566777667765544321
+  ['la', 'sale', 'ha', 'byron', 'e', 'cape', 'ho', 'ad', 'bp', 'he', 'epa']
+  path_length:32 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 0 maze-long-col0
+
+89: Process 6 
+  LONQBOKADEHAR S  OEF DDIPHENIHBKHtDSCDKDRONEWKMKBIRE
+  0000000122222223333333455677667777776544455666555444
+  0123456665432100123456667776655432100001221123345543
+  ['lo', 'ok', 'ad', 'eh', 'ar', 'so', 'dip', 'he', 'nih', 'ds', 'drone', 'wkmkb', 'ire']
+  path_length:52 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 3 maze-long-row-0
+
+89: Process 4 
+  LOOAPE EHPBDAOHEPACENORIUBIYN KALEOASLCOHANNKHEGINE
+  000001100011223443322344555443322111234566777666677
+  012344556776677766554445543322112210000001123345667
+  ['lo', 'ape', 'eh', 'a', 'oh', 'epa', 'en', 'or', 'i', 'i', 'kale', 'as', 'co', 'han', 'nk', 'he', 'gin']
+  path_length:51 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 0 maze-long-col0
+
+88: Process 6 
+  LONQBOKADEHARCR S  OEF DOAPIDIRERONEDtHKBHIHEN
+  0000000122221122233333333455444445567777766677
+  0123456665433221001234567776654322111234556776
+  ['lo', 'ok', 'ad', 'eh', 'arc', 'rs', 'do', 'a', 'pi', 'dire', 'ron', 'edt', 'hkb', 'hi', 'hen']
+  path_length:46 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 3 maze-long-row-0
+
+88: Process 6 
+  LONQBOKADEHARCR S  OEERIDDOAPHIHBKHtDSCDKDRONEWKMKM
+  000000012222112223333444433456667777776544455666556
+  012345666543322100123345667777655432100001221123344
+  ['lo', 'ok', 'ad', 'eh', 'arc', 'rs', 'eer', 'id', 'do', 'a', 'phi', 'ds', 'cdk', 'drone']
+  path_length:51 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 3 maze-long-row-0
+
+88: Process 6 
+  LONQBOKADEHARCR S  OEERIDDOAPHIHBKHtDSCDKDRONEWKMKB
+  000000012222112223333444433456667777776544455666555
+  012345666543322100123345667777655432100001221123345
+  ['lo', 'ok', 'ad', 'eh', 'arc', 'rs', 'eer', 'id', 'do', 'a', 'phi', 'ds', 'cdk', 'drone']
+  path_length:51 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 3 maze-long-row-0
+
+88: Process 6 
+  LONQBOKADEHARCR S  OEERIDDOAPHENIHBKHtDSCDKDRONEWKMKM
+  00000001222211222333344443345677667777776544455666556
+  01234566654332210012334566777776655432100001221123344
+  ['lo', 'ok', 'ad', 'eh', 'arc', 'rs', 'eer', 'id', 'do', 'a', 'ph', 'en', 'i', 'ds', 'cdk', 'drone']
+  path_length:53 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 3 maze-long-row-0
+
+88: Process 6 
+  LONQBOKADEHARCR S  OEERIDDOAPHENIHBKHtDSCDKDRONEWKMKB
+  00000001222211222333344443345677667777776544455666555
+  01234566654332210012334566777776655432100001221123345
+  ['lo', 'ok', 'ad', 'eh', 'arc', 'rs', 'eer', 'id', 'do', 'a', 'ph', 'en', 'i', 'ds', 'cdk', 'drone']
+  path_length:53 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 3 maze-long-row-0
+
+88: Process 6 
+  LONQBOKADEHAR S  OEERIDIPHENIHBKHtDSCDKDRONEWKMKM
+  0000000122222223333444455677667777776544455666556
+  0123456665432100123345667776655432100001221123344
+  ['lo', 'ok', 'ad', 'eh', 'ar', 'so', 'eer', 'i', 'dip', 'he', 'nih', 'ds', 'cdk', 'drone']
+  path_length:49 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 3 maze-long-row-0
+
+88: Process 4 
+  LOOAPEHABYRONECAPKtHIGEHKNNAHOCLSALEOA
+  00000112344322334556666677766543222111
+  01234433334445566677654332110000012210
+  ['lo', 'ape', 'ha', 'byron', 'cap', 'hi', 'ge', 'hknn', 'a', 'hoc', 'ls', 'a', 'leo', 'a']
+  path_length:38 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 0 maze-long-col0
+
+88: Process 4 
+  LOOAPEHABYN KALEOASLCS EKANNKHEGIHtKPACENORIUBI
+  00000112344332211123445566777666665543322344555
+  01234433332211221000011221123345677666554445543
+  ['lo', 'ape', 'ha', 'by', 'kale', 'as', 'cs', 'ann', 'he', 'i', 'pace', 'nor', 'i', 'ub', 'i']
+  path_length:47 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 0 maze-long-col0
+
+88: Process 4 
+  LOOAPEHABYN KALEOASLCOHANNKHEGIHtKPACENORIUBI
+  000001123443322111234566777666665543322344555
+  012344333322112210000001123345677666554445543
+  ['lo', 'ape', 'ha', 'by', 'kale', 'as', 'co', 'han', 'he', 'i', 'pace', 'nor', 'i', 'ub', 'i']
+  path_length:45 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 0 maze-long-col0
+
+88: Process 4 
+  LOOAPE EHPBDAOHEPIRONABYN KALEOASLCOHANNKHEGINE
+  00000110001122344443223443322111234566777666677
+  01234455677667776544433322112210000001123345667
+  ['lo', 'ape', 'eh', 'a', 'oh', 'pi', 'ron', 'a', 'by', 'kale', 'as', 'co', 'han', 'nk', 'he', 'gin']
+  path_length:47 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 0 maze-long-col0
+
+88: Process 4 
+  LOOAPE EHPBDAOHEPACENORIUBIYN KALEOASLCS EKANNKHEGINE
+  00000110001122344332234455544332211123445566777666677
+  01234455677667776655444554332211221000011221123345667
+  ['lo', 'ape', 'eh', 'a', 'oh', 'epa', 'en', 'or', 'i', 'i', 'kale', 'as', 'cs', 'ann', 'k', 'he', 'gin']
+  path_length:53 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 0 maze-long-col0
+
+88: Process 4 
+  LOOAPE EHPBDAOHEPACENABYN KALEOASLCOHANNKHEGINE
+  00000110001122344332223443322111234566777666677
+  01234455677667776655433322112210000001123345667
+  ['lo', 'ape', 'eh', 'a', 'oh', 'epa', 'en', 'a', 'by', 'kale', 'as', 'co', 'han', 'nk', 'he', 'gin']
+  path_length:47 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 0 maze-long-col0
+
+87: Process 4 
+  LOOAPE EHPBDAOHEPKtHIGEHKNNAHOCLSALEHABYRONECA
+  0000011000112234455666667776654322211234432233
+  0123445567766777667765433211000001223333444556
+  ['lo', 'ape', 'eh', 'a', 'oh', 'hi', 'ge', 'a', 'hoc', 'ls', 'ale', 'ha', 'byron', 'e', 'ca']
+  path_length:46 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 0 maze-long-col0
+
+87: Process 4 
+  LOOAPE EHPBDAOHEPKtHIGEHKAHOCLSALEHABYRONECA
+  00000110001122344556666666654322211234432233
+  01234455677667776677654321000001223333444556
+  ['lo', 'ape', 'eh', 'a', 'oh', 'hi', 'ge', 'a', 'hoc', 'ls', 'ale', 'ha', 'byron', 'e', 'ca']
+  path_length:44 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 0 maze-long-col0
+
+53: Process 5 
+  LAOEHABYRIPKtHINE
+  01111234444556677
+  00123333456677667
+  ['lao', 'eh', 'a', 'by', 'rip', 'k', 'thine']
+  path_length:17 c: row,col s: row,col Ten color frame f5, Three color frame f1, Maze frame 7 Combined maze
+
+49: Process 11 
+  LARCHAEYRINSPHINE
+  01111234444556677
+  00123333456677667
+  ['larch', 'a', 'ey', 'ri', 'ns', 'phi', 'ne']
+  path_length:17 c: row,col s: row,col Ten color frame f2, Three color frame f1, Maze frame 7 Combined maze
+
+43: Process 2 
+  LAYERABERIFAtHINE
+  01111234444556677
+  00123333456677667
+  ['lay', 'era', 'be', 'ri', 'fat', 'hi', 'ne']
+  path_length:17 c: row,col s: row,col Ten color frame f5, Three color frame f4, Maze frame 7 Combined maze
+
+42: Process 8 
+  LA CRAEERIDIPHINE
+  01111234444556677
+  00123333456677667
+  ['lac', 'rae', 'e', 'rid', 'i', 'phi', 'ne']
+  path_length:17 c: row,col s: row,col Ten color frame f2, Three color frame f4, Maze frame 7 Combined maze
+
+-1: Process 8 
+-1: Process 8 
+-1: Process 8 
+-1: Process 8 
+-1: Process 8 
+-1: Process 8 
+-1: Process 8 
+-1: Process 8 
+-1: Process 8 
+-1: Process 5 
+-1: Process 5 
+-1: Process 5 
+-1: Process 5 
+-1: Process 5 
+-1: Process 5 
+-1: Process 5 
+-1: Process 5 
+-1: Process 5 
+-1: Process 2 
+-1: Process 2 
+-1: Process 2 
+-1: Process 2 
+-1: Process 2 
+-1: Process 2 
+-1: Process 2 
+-1: Process 2 
+-1: Process 2 
+-1: Process 11 
+-1: Process 11 
+-1: Process 11 
+-1: Process 11 
+-1: Process 11 
+-1: Process 11 
+-1: Process 11 
+-1: Process 11 
+-1: Process 11 
+
+
+
